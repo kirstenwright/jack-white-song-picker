@@ -12,4 +12,4 @@ def choose_song():
             
 choose_song()
 
-        
+## clearly I need to add the rest of the albums. Work in progress, baby. 
